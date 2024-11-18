@@ -588,7 +588,7 @@ p {
 }
 
 .created h1 {
-  font-size: 6vw;
+  font-size: 5vw;
   font-weight: 400;
 }
 
@@ -600,6 +600,7 @@ p {
   width: 250px;
   height: 100px;
   display: inline-block;
+  margin-top: 20px;
 }
 
 .created-img img {
